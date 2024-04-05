@@ -9,3 +9,6 @@ print('Hello ' + input("What is your name?\n") + '!\n')
 
 print(len(input("Where are you from?\n")))
 # Len menghitung jumlah karakter dari inputan
+
+
+# TIPS !!! menekan ctrl + / akan otomatis mengubah baris menjadi comment
