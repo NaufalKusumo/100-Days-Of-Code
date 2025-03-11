@@ -6,10 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bedb56dc-98da-4653-9c1e-368ec108fc89" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher 1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher 3/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 3/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 9/Blind Auction Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 9/Blind Auction Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 9/Blind Auction Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 9/Blind Auction Project/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +183,7 @@
       <workItem from="1741516351642" duration="4217000" />
       <workItem from="1741566756541" duration="4572000" />
       <workItem from="1741610627165" duration="1638000" />
-      <workItem from="1741657736633" duration="2372000" />
+      <workItem from="1741657736633" duration="3980000" />
     </task>
     <servers />
   </component>
@@ -191,8 +191,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$main.coverage" NAME="main Coverage Results" MODIFIED="1741659495537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 8/Caesar Cipher 2" />
-    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1741657919421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 8/Positional vs Keyword Arguments" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$main.coverage" NAME="main Coverage Results" MODIFIED="1741666372951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9/Blind Auction Project" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1741666149367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$Unittests_in_test_task_py.coverage" NAME="Unittests in test_task.py Coverage Results" MODIFIED="1741516739262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3/Python Pizza" />
   </component>
 </project>
